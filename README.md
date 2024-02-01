@@ -13,3 +13,6 @@ Exploring the connection among dog breed, dog size, and dog intelligence through
 5. Is there a correlation between the number of repetitions needed for learning among different dog breeds?
 6. Which breeds tend to have higher average weights compared to others?
 7. What are the top five dogs in each size category (small, medium, large)?
+## Data
+
+## Visualization 

@@ -14,5 +14,6 @@ Exploring the connection among dog breed, dog size, and dog intelligence through
 6. Which breeds tend to have higher average weights compared to others?
 7. What are the top five dogs in each size category (small, medium, large)?
 ## Data
+Please see files in repository 
 
 ## Visualization 
